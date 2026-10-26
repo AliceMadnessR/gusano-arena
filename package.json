@@ -1,11 +1,1 @@
-{
-  "name": "gusano-arena",
-  "version": "1.1.0",
-  "private": true,
-  "scripts": {
-    "start": "node server.cjs"
-  },
-  "engines": {
-    "node": ">=20"
-  }
-}
+{"name":"gusano-arena","version":"2.0.0","private":true,"scripts":{"start":"node server.cjs","test":"node tests.cjs"},"engines":{"node":">=20"},"dependencies":{"ws":"^8.18.0"}}
